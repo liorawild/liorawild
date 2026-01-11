@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @lorilu-coder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-lorilu-coder/lorilu-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋  Hi, I’m @liorawild
+
+向野而深 (Born to the wild, driven by the deep.)
+
+🌿 About Me
+
+人生不是既定的轨道，而是无限可能的旷野。在这里记录代码的逻辑，也留存生活的野性。
+
+- 🔭 目前关注：[React, Go, Distributed Systems]
+- 🌱 正在深挖：[Rust, AI Engineering]
+- ✍️ 个人博客：[liorawild.com](https://liorawild.com) (记录技术沉淀与生活碎片)
+- 💬 关键词：#旷野主义 #持续进化
